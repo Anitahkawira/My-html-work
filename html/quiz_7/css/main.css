@@ -1,0 +1,54 @@
+body{
+	background-color: #73c259;
+}
+form{
+	background-color: #fff;
+	width: 495px;
+	height: 340px;
+	margin: 0 auto;
+	padding-top: 63px;
+	margin-top: 80px;
+	margin-right: 478px;
+	margin-bottom: 120px;
+	margin-left: 468px;
+}
+.one input{
+	width: 369px;
+	height: 63px;
+	padding: 0px;
+	background-color: #f2f2f2;
+	color: #bebebe;
+	border-style: none;
+	text-indent: 10px;
+	margin-left: 63px;
+	margin-right: 63px;
+}
+.two input{
+	width: 369px;
+	height: 63px;
+	padding: 0px;
+	background-color: #f2f2f2;
+	color: #bebebe;
+	border-style: none;
+	text-indent: 10px;
+	margin-left: 63px;
+	margin-right: 63px;
+}
+.three input{
+	width: 369px;
+	height: 63px;
+	padding: 0px;
+	background-color: #00b242;
+	color: #fff;
+	border-style: none;
+	margin-left: 63px;
+	margin-right: 63px;
+}
+p{
+	color: #bdbdbd;
+	text-indent: 124px;
+}
+a{
+	color: #4eba6e;
+	text-decoration: none;
+}

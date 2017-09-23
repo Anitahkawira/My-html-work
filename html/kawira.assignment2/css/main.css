@@ -1,0 +1,44 @@
+body{
+	background-color: #fff;
+	width: 1340px;
+	height: 700px;
+}
+.alphabet{
+	float: left;
+}
+.A{
+	width: 335px;
+	height: 233px;
+}
+.B{
+	width: 335px;
+	height: 233px;
+}
+.C{
+	width: 335px;
+	height: 233px;
+}
+.D{
+	width: 335px;
+	height: 233px;
+}
+.E{
+	width: 447px;
+	height: 234px;
+}
+.F{
+	width: 446px;
+	height: 234px;
+}
+.G{
+	width: 447px;
+	height: 234px;
+}
+.H{
+	width: 670px;
+	height: 233px;
+}
+.I{
+	width: 670px;
+	height: 233px;
+}

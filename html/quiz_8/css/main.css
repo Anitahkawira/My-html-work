@@ -1,0 +1,88 @@
+
+body{
+	background-color: #fff;
+}
+.container{
+	background-color: #707070;
+	max-width: 1000px;
+	min-height: 1500px;
+	margin: 0 auto;
+	margin-top: 20px;
+	overflow: auto;
+}
+.panel1 img{
+	float: left;
+	/*background-color: #630460;*/
+	width: 492px;
+	height: 493px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	border-radius: 50%;
+}
+.panel2 img{
+	float: left;
+	/*background-color: #630460;*/
+	width: 492px;
+	height: 493px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border-radius: 50%;
+}
+.panel3 img{
+	float: left;
+	/*background-color: #630460;*/
+	width: 492px;
+	height: 493px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	border-radius: 50%;
+}
+.panel4 img{
+	float: left;
+	/*background-color: #630460;*/
+	width: 492px;
+	height: 493px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border-radius: 50%;
+}
+.panel5 img{
+	float: left;
+	/*background-color: #630460;*/
+	width: 492px;
+	height: 493px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	border-radius: 50%;
+}
+.panel6 img{
+	float: left;
+	/*background-color: #630460;*/
+	width: 492px;
+	height: 493px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border-radius: 50%;
+}
+@media only screen and (max-width: 500px) {
+    .container{
+        background-color: #630460;
+    }
+    .panel1, .panel2, .panel3, .panel4, .panel5, .panel6{
+    	width: 50%;
+    }
+}
+@media only screen and (max-width: 300px) {
+	.container{
+		background-color: #ffff00;
+	}
+    .panel1, .panel2, .panel3, .panel4, .panel5, .panel6{
+    	width: 100%;
+    }
+    
+}

@@ -1,0 +1,26 @@
+body{
+	padding-top: 50px; 
+}
+table{
+	margin: 0 auto;
+	border-style: solid;
+	border-collapse: collapse;
+	border: 1px;
+}
+th{
+	color: #387db8;
+	height: 39px;
+	text-align: left;
+	text-indent: 10px;
+}
+td{
+	height: 39px;
+	text-indent: 10px;
+}
+tr:nth-child(even){
+	background-color: #f9f9f9;
+}
+td:nth-child(3){
+	color: #337ab8;
+}
+

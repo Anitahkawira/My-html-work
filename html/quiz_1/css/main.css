@@ -1,0 +1,63 @@
+
+body{
+    background-color: pink
+}
+
+div{
+    background-color: white;
+    margin: 0 auto;
+    padding: 30px;
+    border: 2px solid black;
+}
+
+h1{
+	color:blue;
+}
+h2{
+	color:blue;
+}
+h3{
+	color:blue;
+}
+h3{
+	color:blue;
+}
+h4{
+	color:blue;
+}
+h5{
+	color:blue;
+}
+h6{
+	color:blue;
+}
+#panel h1{
+	color: green
+	padding: 5px;
+	border: 2px solid black;
+
+}
+#panel1{
+	background-color: orange;
+	padding: 5px;
+	margin: 5px;
+	border: 2px solid black;
+}
+.Anitah{
+	background-color: purple;
+	color: yellow;
+	margin: 5px;
+	border: 2px solid black;
+}
+.Kawira{
+	background-color: red;
+	color: yellow;
+	margin: 5px;
+	border: 2px solid black;
+}
+.Anitahkawira{
+	background-color: green;
+	color: yellow;
+	margin: 5px;
+	border: 2px solid black;
+}
