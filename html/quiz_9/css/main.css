@@ -349,12 +349,12 @@ header ul li.active a{
 	width: 300px;
 	margin-left: 150px;
 }
-.img{
-	float: left;
+/*.img{
+	float: right;
 }
 .content{
 	float: left;
-}
+}*/
 .content h5{
 	color: #fac996;
 }
